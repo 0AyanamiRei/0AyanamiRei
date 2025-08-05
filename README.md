@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi, I'm 0AyanamiRei (but maybe u can call me Refrain/依赖^^)
+
+- 🌱 I’m currently learning Database Query Optimization
+- I like writing code in C++/C 😄
+- I love ACG, enjoy this world~
+
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+
 <!--
 **0AyanamiRei/0AyanamiRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
