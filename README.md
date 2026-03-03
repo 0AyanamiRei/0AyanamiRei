@@ -13,9 +13,11 @@ Hi, I'm 0AyanamiRei (but maybe u can call me Refrain or 依赖^^)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Java                     1 hr 48 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.04 % 
+Markdown                 16 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.85 % 
+C++                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.12 % 
 ```
 
 
- Last Updated on 02/03/2026 01:59:12 UTC
+ Last Updated on 03/03/2026 02:00:51 UTC
 <!--END_SECTION:waka-->
