@@ -2,8 +2,7 @@
 
 Hi, I'm 0AyanamiRei (but maybe u can call me Refrain or 依赖^^)
 
-- 🌱 I’m currently learning Database Query Optimization
-- I like writing code in C++/C 😄
+- 🌱 I’m currently study Database Query Optimization
 - I love ACG, enjoy this world~
 
  <!--START_SECTION:waka-->
