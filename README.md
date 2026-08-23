@@ -6,7 +6,7 @@ Hi, I'm 0AyanamiRei (but maybe u can call me Refrain or 依赖^^)
 - I love ACG, enjoy this world~
 
  <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-639%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-640%20hrs%2056%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
@@ -14,36 +14,36 @@ Hi, I'm 0AyanamiRei (but maybe u can call me Refrain or 依赖^^)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Java                     23 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   69.53 % 
-C++                      3 hrs 45 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.92 % 
-Markdown                 2 hrs 51 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.30 % 
-Groovy                   1 hr 8 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.30 % 
-Other                    1 hr 3 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.06 % 
+Java                     22 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.49 % 
+C++                      3 hrs 45 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.29 % 
+Markdown                 2 hrs 51 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.59 % 
+Groovy                   1 hr 8 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.41 % 
+Other                    1 hr 3 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 52 mins (75.19%)
+⏱ AI Coding Time: 25 hrs 11 mins (75.71%)
 
-✍️ 9,371 lines written by AI, 233 lines written by hand (97.57% AI-written)
+✍️ 9,371 lines written by AI, 224 lines written by hand (97.67% AI-written)
 
-🔤 107,632,523 Input Tokens, 7,749,656 Output Tokens
+🔤 107,304,229 Input Tokens, 7,703,230 Output Tokens
 
-💵 $1022.51 Estimated AI Cost This Week
+💵 $1022.22 Estimated AI Cost This Week
 
-🧠 210 AI Sessions, 413 AI Prompts
+🧠 208 AI Sessions, 394 AI Prompts
 
 GPT                      10,536 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Composer                 0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.57% of written lines came from AI
-📚 Verbose Prompter — average 5,068 characters per prompt
+🤖 AI-Driven — 97.67% of written lines came from AI
+📚 Verbose Prompter — average 5,263 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.44% of changed lines were hand-edited
+🚀 High AI Trust — 3.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 01:05:19 UTC
+ Last Updated on 23/08/2026 01:10:24 UTC
 <!--END_SECTION:waka-->
